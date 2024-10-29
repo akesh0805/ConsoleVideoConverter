@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TinyClips", "TinyClips.csproj", "{B01B65E9-CBF9-4F7F-8CAC-CAD1149AF49C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B01B65E9-CBF9-4F7F-8CAC-CAD1149AF49C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B01B65E9-CBF9-4F7F-8CAC-CAD1149AF49C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B01B65E9-CBF9-4F7F-8CAC-CAD1149AF49C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B01B65E9-CBF9-4F7F-8CAC-CAD1149AF49C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A18B9B67-608F-4FDA-8B21-1D5A8B24FDED}
+	EndGlobalSection
+EndGlobal
